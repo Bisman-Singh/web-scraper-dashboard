@@ -26,3 +26,5 @@ Open http://127.0.0.1:8002 in your browser.
 |--------|----------|-------------|
 | GET | `/api/headlines` | Get all headlines (?source= to filter) |
 | GET | `/api/refresh` | Trigger a fresh scrape |
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
